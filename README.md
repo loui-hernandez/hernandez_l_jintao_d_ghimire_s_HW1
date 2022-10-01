@@ -1,5 +1,5 @@
 # Collaboration Project of China, Philippines & Nepal
-
+![Image not found](img/image-of-us.jpg "3 of us!")
 
 ___
 ### Loui Hernandez
@@ -22,13 +22,12 @@ Hello, My name is Suyog Gimire. I am from Nepal. I am currently studying Interac
 
 
 ## Contributing
-Loui Hernandez
-Jintao Duan
-Suyog Ghimire
+- Loui Hernandez
+- Jintao Duan
+- Suyog Ghimire
 
 ## License
 MIT
 
 
 WE need to learn and practice more.
-
