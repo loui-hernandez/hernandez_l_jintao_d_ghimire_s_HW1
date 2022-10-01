@@ -1,2 +1,9 @@
-# hernandez_l_jintao_d_ghimire_s_HW1
-Collaboration Project
+
+
+# Something to tell about US!
+
+![Image not found](img/luffy.gif "Luffy Fired UP!")
+
+### Loui Hernandez
+
+Im from Manila Philippines! I love to read
